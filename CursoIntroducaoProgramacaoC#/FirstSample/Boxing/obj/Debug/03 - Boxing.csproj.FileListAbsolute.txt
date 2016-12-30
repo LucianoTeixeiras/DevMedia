@@ -1,5 +1,0 @@
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\Boxing\bin\Debug\Boxing.exe.config
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\Boxing\bin\Debug\Boxing.exe
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\Boxing\bin\Debug\Boxing.pdb
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\Boxing\obj\Debug\Boxing.exe
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\Boxing\obj\Debug\Boxing.pdb
