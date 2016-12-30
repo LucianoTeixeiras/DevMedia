@@ -12,6 +12,8 @@ namespace _01___HelloWorld
         {
             Console.WriteLine("Hello C# World!");
             Console.ReadKey();
+            
+            //Este arquivo foi editado para fins de teste de versionamento.
         }
     }
 }
