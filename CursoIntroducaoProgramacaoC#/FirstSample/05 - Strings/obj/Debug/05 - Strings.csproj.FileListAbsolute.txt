@@ -1,0 +1,6 @@
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\05 - Strings\bin\Debug\05 - Strings.exe.config
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\05 - Strings\obj\Debug\05 - Strings.csprojResolveAssemblyReference.cache
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\05 - Strings\bin\Debug\05 - Strings.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\05 - Strings\bin\Debug\05 - Strings.pdb
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\05 - Strings\obj\Debug\05 - Strings.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\05 - Strings\obj\Debug\05 - Strings.pdb

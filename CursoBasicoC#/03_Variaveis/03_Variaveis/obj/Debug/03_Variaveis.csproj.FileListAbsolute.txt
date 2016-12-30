@@ -1,0 +1,6 @@
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\03_Variaveis\03_Variaveis\bin\Debug\03_Variaveis.exe.config
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\03_Variaveis\03_Variaveis\bin\Debug\03_Variaveis.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\03_Variaveis\03_Variaveis\bin\Debug\03_Variaveis.pdb
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\03_Variaveis\03_Variaveis\obj\Debug\03_Variaveis.csprojResolveAssemblyReference.cache
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\03_Variaveis\03_Variaveis\obj\Debug\03_Variaveis.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\03_Variaveis\03_Variaveis\obj\Debug\03_Variaveis.pdb

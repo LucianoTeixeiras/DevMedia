@@ -1,0 +1,12 @@
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\bin\Debug\ValueTypes.exe.config
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\bin\Debug\ValueTypes.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\bin\Debug\ValueTypes.pdb
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\obj\Debug\02 - ValueTypes.csprojResolveAssemblyReference.cache
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\obj\Debug\ValueTypes.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\obj\Debug\ValueTypes.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\bin\Debug\ValueTypes.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\obj\Debug\ValueTypes.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\obj\Debug\ValueTypes.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\bin\Debug\ValueTypes.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\bin\Debug\ValueTypes.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\ValueTypes\obj\Debug\02 - ValueTypes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\07 - Generics\bin\Debug\07 - Generics.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\07 - Generics\bin\Debug\07 - Generics.exe.config

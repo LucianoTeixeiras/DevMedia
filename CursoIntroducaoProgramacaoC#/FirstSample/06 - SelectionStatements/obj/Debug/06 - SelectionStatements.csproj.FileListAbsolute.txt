@@ -1,0 +1,5 @@
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\06 - SelectionStatements\bin\Debug\06 - SelectionStatements.exe.config
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\06 - SelectionStatements\bin\Debug\06 - SelectionStatements.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\06 - SelectionStatements\bin\Debug\06 - SelectionStatements.pdb
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\06 - SelectionStatements\obj\Debug\06 - SelectionStatements.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\06 - SelectionStatements\obj\Debug\06 - SelectionStatements.pdb

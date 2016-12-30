@@ -1,0 +1,6 @@
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\bin\Debug\04 - Array.exe.config
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\bin\Debug\04 - Array.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\bin\Debug\04 - Array.pdb
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.csprojResolveAssemblyReference.cache
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.exe
+d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.pdb
