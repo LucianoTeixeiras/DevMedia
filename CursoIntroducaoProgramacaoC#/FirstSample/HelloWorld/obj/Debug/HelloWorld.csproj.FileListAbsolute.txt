@@ -1,5 +1,0 @@
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\HelloWorld\bin\Debug\HelloWorld.exe.config
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\HelloWorld\bin\Debug\HelloWorld.exe
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\HelloWorld\bin\Debug\HelloWorld.pdb
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\HelloWorld\obj\Debug\HelloWorld.exe
-d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\HelloWorld\obj\Debug\HelloWorld.pdb
