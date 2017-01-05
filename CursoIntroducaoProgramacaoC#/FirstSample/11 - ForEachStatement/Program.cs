@@ -33,9 +33,14 @@ namespace _11___ForEachStatement
             l2.anoPublicacao = 2017;
 
             //Collection
-            ArrayList livros = new ArrayList();
+
+            //ArrayList livros = new ArrayList(); //Pacivel de Erros.
+            List<Livro> livros = new List<Livro>();
             livros.Add(l1);
             livros.Add(l2);
+
+            //Teste Simulacao de Erro - Descomentar a linha 37, 43 e comentar a linha 38
+            //livros.Add(10);
 
             foreach (Livro item in livros)
             {
@@ -45,6 +50,16 @@ namespace _11___ForEachStatement
                 Console.WriteLine("Livro Publicacao: " + item.anoPublicacao.ToString());
                 Console.WriteLine("------------------------------------------------------");
             }
+
+            //Sugestao alternativa.
+
+            /*
+            for (int i = 0; i < livros.Count; i++)
+            {
+                Livro l = livros.ElementAt(i);
+                l.anoPublicacao;
+            }*/
+
             Console.ReadKey();
         }
     }
