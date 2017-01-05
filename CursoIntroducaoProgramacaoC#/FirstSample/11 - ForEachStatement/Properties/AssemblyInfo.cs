@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("10 - ForEachStatement")]
+[assembly: AssemblyTitle("11 - ForEachStatement")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("10 - ForEachStatement")]
+[assembly: AssemblyProduct("11 - ForEachStatement")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("40ab0a85-5c4d-45b4-a012-d0c6498e7737")]
+[assembly: Guid("2eb8e322-e549-4977-affd-0680580d48e2")]
 
 // Version information for an assembly consists of the following four values:
 //
