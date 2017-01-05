@@ -1,0 +1,2 @@
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/04 - Array/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/04 - Array/obj/Debug/04 - Array.exe

@@ -4,3 +4,9 @@ d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProg
 d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.csprojResolveAssemblyReference.cache
 d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.exe
 d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\bin\Debug\04 - Array.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\bin\Debug\04 - Array.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\bin\Debug\04 - Array.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\04 - Array\obj\Debug\04 - Array.csprojResolveAssemblyReference.cache

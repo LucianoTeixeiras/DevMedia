@@ -1,0 +1,1 @@
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/03 - Boxing/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs

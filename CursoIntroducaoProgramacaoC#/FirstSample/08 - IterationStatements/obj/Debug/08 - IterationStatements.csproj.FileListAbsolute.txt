@@ -1,1 +1,9 @@
 D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\bin\Debug\08 - IterationStatements.exe.config
+F:\Documentos\Luciano Teixeira\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\bin\Debug\08 - IterationStatements.exe.config
+F:\Documentos\Luciano Teixeira\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\bin\Debug\08 - IterationStatements.exe
+F:\Documentos\Luciano Teixeira\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\bin\Debug\08 - IterationStatements.pdb
+F:\Documentos\Luciano Teixeira\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\obj\Debug\08 - IterationStatements.csprojResolveAssemblyReference.cache
+F:\Documentos\Luciano Teixeira\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\obj\Debug\08 - IterationStatements.exe
+F:\Documentos\Luciano Teixeira\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\obj\Debug\08 - IterationStatements.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\obj\Debug\08 - IterationStatements.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\08 - IterationStatements\obj\Debug\08 - IterationStatements.pdb

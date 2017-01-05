@@ -1,0 +1,2 @@
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/06 - SelectionStatements/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/06 - SelectionStatements/obj/Debug/06 - SelectionStatements.exe

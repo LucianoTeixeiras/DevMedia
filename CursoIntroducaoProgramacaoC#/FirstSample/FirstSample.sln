@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - ValueTypes", "02 - Val
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Boxing", "03 - Boxing\03 - Boxing.csproj", "{E3DE1F0A-2A33-4187-BDF1-58BD3AF5E123}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - ForStatement", "09 - ForStatement\09 - ForStatement.csproj", "{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,14 @@ Global
 		{E3DE1F0A-2A33-4187-BDF1-58BD3AF5E123}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E3DE1F0A-2A33-4187-BDF1-58BD3AF5E123}.Release|x86.ActiveCfg = Release|Any CPU
 		{E3DE1F0A-2A33-4187-BDF1-58BD3AF5E123}.Release|x86.Build.0 = Release|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Debug|x86.Build.0 = Debug|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|x86.ActiveCfg = Release|Any CPU
+		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

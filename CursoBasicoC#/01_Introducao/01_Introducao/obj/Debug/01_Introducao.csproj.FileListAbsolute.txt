@@ -4,3 +4,9 @@ d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\01_In
 d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\obj\Debug\01_Introducao.csprojResolveAssemblyReference.cache
 d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\obj\Debug\01_Introducao.exe
 d:\users\luciano.silva\documents\visual studio 2015\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\obj\Debug\01_Introducao.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\bin\Debug\01_Introducao.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\bin\Debug\01_Introducao.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\bin\Debug\01_Introducao.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\obj\Debug\01_Introducao.csprojResolveAssemblyReference.cache
+D:\Users\luciano.silva\Insync\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\obj\Debug\01_Introducao.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoBasicoC#\01_Introducao\01_Introducao\obj\Debug\01_Introducao.pdb

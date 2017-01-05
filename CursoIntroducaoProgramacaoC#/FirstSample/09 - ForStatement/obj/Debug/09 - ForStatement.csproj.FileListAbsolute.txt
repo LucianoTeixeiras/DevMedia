@@ -1,0 +1,6 @@
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\09 - ForStatement\bin\Debug\09 - ForStatement.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\09 - ForStatement\bin\Debug\09 - ForStatement.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\09 - ForStatement\bin\Debug\09 - ForStatement.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\09 - ForStatement\obj\Debug\09 - ForStatement.csprojResolveAssemblyReference.cache
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\09 - ForStatement\obj\Debug\09 - ForStatement.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\09 - ForStatement\obj\Debug\09 - ForStatement.pdb

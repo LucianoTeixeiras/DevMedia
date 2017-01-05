@@ -1,0 +1,2 @@
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/05 - Strings/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/luciano/Insync/DevMedia/CursoIntroducaoProgramacaoC#/FirstSample/05 - Strings/obj/Debug/05 - Strings.exe
