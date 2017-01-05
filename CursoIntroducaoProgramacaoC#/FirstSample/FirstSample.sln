@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Boxing", "03 - Boxing\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - ForStatement", "09 - ForStatement\09 - ForStatement.csproj", "{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - ForEachStatement", "10 - ForEachStatement\10 - ForEachStatement.csproj", "{40AB0A85-5C4D-45B4-A012-D0C6498E7737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,14 @@ Global
 		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|Any CPU.Build.0 = Release|Any CPU
 		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|x86.ActiveCfg = Release|Any CPU
 		{13EAACE1-3EF8-44EB-80CA-3494D9A3DE63}.Release|x86.Build.0 = Release|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Debug|x86.Build.0 = Debug|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Release|x86.ActiveCfg = Release|Any CPU
+		{40AB0A85-5C4D-45B4-A012-D0C6498E7737}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
