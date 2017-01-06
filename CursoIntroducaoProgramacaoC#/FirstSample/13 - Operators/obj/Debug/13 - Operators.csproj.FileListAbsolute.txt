@@ -1,0 +1,6 @@
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\13 - Operators\bin\Debug\13 - Operators.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\13 - Operators\bin\Debug\13 - Operators.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\13 - Operators\bin\Debug\13 - Operators.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\13 - Operators\obj\Debug\13 - Operators.csprojResolveAssemblyReference.cache
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\13 - Operators\obj\Debug\13 - Operators.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\13 - Operators\obj\Debug\13 - Operators.pdb

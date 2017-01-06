@@ -1,0 +1,6 @@
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\12 - AnonymousType\bin\Debug\12 - AnonymousType.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\12 - AnonymousType\bin\Debug\12 - AnonymousType.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\12 - AnonymousType\bin\Debug\12 - AnonymousType.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\12 - AnonymousType\obj\Debug\12 - AnonymousType.csprojResolveAssemblyReference.cache
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\12 - AnonymousType\obj\Debug\12 - AnonymousType.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\12 - AnonymousType\obj\Debug\12 - AnonymousType.pdb
