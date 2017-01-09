@@ -1,0 +1,5 @@
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\14 - OperatorsSamples\bin\Debug\14 - OperatorsSamples.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\14 - OperatorsSamples\bin\Debug\14 - OperatorsSamples.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\14 - OperatorsSamples\bin\Debug\14 - OperatorsSamples.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\14 - OperatorsSamples\obj\Debug\14 - OperatorsSamples.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\14 - OperatorsSamples\obj\Debug\14 - OperatorsSamples.pdb

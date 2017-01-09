@@ -1,0 +1,6 @@
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\15 - ClassSamples\bin\Debug\15 - ClassSamples.exe.config
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\15 - ClassSamples\bin\Debug\15 - ClassSamples.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\15 - ClassSamples\bin\Debug\15 - ClassSamples.pdb
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\15 - ClassSamples\obj\Debug\15 - ClassSamples.csprojResolveAssemblyReference.cache
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\15 - ClassSamples\obj\Debug\15 - ClassSamples.exe
+D:\Users\luciano.silva\Insync\DevMedia\CursoIntroducaoProgramacaoC#\FirstSample\15 - ClassSamples\obj\Debug\15 - ClassSamples.pdb
